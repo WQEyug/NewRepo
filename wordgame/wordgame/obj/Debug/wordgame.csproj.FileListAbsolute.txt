@@ -1,0 +1,10 @@
+C:\Users\shash\source\repos\wordgame\wordgame\bin\Debug\wordgame.exe.config
+C:\Users\shash\source\repos\wordgame\wordgame\bin\Debug\wordgame.exe
+C:\Users\shash\source\repos\wordgame\wordgame\bin\Debug\wordgame.pdb
+C:\Users\shash\source\repos\wordgame\wordgame\obj\Debug\wordgame.csproj.AssemblyReference.cache
+C:\Users\shash\source\repos\wordgame\wordgame\obj\Debug\wordgame.Form1.resources
+C:\Users\shash\source\repos\wordgame\wordgame\obj\Debug\wordgame.Properties.Resources.resources
+C:\Users\shash\source\repos\wordgame\wordgame\obj\Debug\wordgame.csproj.GenerateResource.cache
+C:\Users\shash\source\repos\wordgame\wordgame\obj\Debug\wordgame.csproj.CoreCompileInputs.cache
+C:\Users\shash\source\repos\wordgame\wordgame\obj\Debug\wordgame.exe
+C:\Users\shash\source\repos\wordgame\wordgame\obj\Debug\wordgame.pdb
